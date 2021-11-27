@@ -16,7 +16,7 @@ Aria/qBittorrent Telegram mirror/leech bot.
 
 # Features:
 
-## By EMPIRE Devs
+## By lol Devs
 - qBittorrent
 - Rss feed reader
 - Log channel (Added Logs Group Support So Bot Forwards Messages Of Mirror And Clones To Other Group.
